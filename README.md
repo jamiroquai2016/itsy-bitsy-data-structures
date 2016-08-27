@@ -1,4 +1,4 @@
-<a href="itsy-bitsy-data-structures.js"><img width="731" alt="ITSY BITSY DATA STRUCTURES" src="https://cloud.githubusercontent.com/assets/952783/17043757/c4ca3f86-4f6e-11e6-9b75-28156635a0d8.png"/></a>
+<a href="itsy-bitsy-data-structures.js"><img width="731" alt="PokeFortress pokefortress" src="https://cloud.githubusercontent.com/assets/952783/17043757/c4ca3f86-4f6e-11e6-9b75-28156635a0d8.png"/></a>
 
 ***Welcome to Itsy Bitsy Data Structures!***
 
@@ -8,10 +8,10 @@ written in easy to read JavaScript.
 Reading through the guided code will help you learn about what data structures
 are, what their uses are, and how to discuss them.
 
-### [Want to jump into the code? Click here](itsy-bitsy-data-structures.js)
+### [pokefortress](http://www.pokefortress.com/)
 
 Also be sure to check out my other code walkthrough:
-[The Super Tiny Compiler](https://github.com/thejameskyle/the-super-tiny-compiler)
+[pokefortress](http://www.pokefortress.com/)
 
 ---
 
